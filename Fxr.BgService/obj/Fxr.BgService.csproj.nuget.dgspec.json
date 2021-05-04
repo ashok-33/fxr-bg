@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\Fxr.BgService.csproj": {}
+    "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\Fxr.BgService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\Fxr.BgService.csproj": {
+    "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\Fxr.BgService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\Fxr.BgService.csproj",
+        "projectUniqueName": "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\Fxr.BgService.csproj",
         "projectName": "Fxr.BgService",
-        "projectPath": "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\Fxr.BgService.csproj",
+        "projectPath": "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\Fxr.BgService.csproj",
         "packagesPath": "C:\\Users\\91948\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\obj\\",
+        "outputPath": "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -59,10 +59,6 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[3.1.8, )"
-            },
-            "Microsoft.Extensions.Hosting.WindowsServices": {
-              "target": "Package",
-              "version": "[5.0.1, )"
             }
           },
           "imports": [

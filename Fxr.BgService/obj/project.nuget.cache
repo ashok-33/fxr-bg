@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ZCQXNFv5Xmf1ZOKrehQEQWGtAJUhRe0u/Sfa+HKLg+lfwFaEdCptJnyyzMEvKF5xiv0sQ6Q8bhit1VV4JLj/A==",
+  "dgSpecHash": "rgZo4/0ur+yxky+ZeijqzFAV3mHFzZ2FN1EDWBF58HesotlgXubqOsazBCDwyEfc2pc2u63jhsTJ0TbLxoS0SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\Fxr.BgService.csproj",
+  "projectFilePath": "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\Fxr.BgService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91948\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\91948\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

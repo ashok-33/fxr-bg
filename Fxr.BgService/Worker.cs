@@ -27,7 +27,7 @@ namespace Fxr.BgService
         {
             while (!stoppingToken.IsCancellationRequested)
             {
-                DirectoryInfo d = new DirectoryInfo(_config.GetSection("Service").GetSection("FileLocation").GetSection("Fout1").Value);
+                DirectoryInfo d = new DirectoryInfo(_config.GetSection("Service").GetSection("FileLocation").GetSection("FourPoint").Value);
 
                 foreach (var file in d.GetFiles("*.txt"))
                 {

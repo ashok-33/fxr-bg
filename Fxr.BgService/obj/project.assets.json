@@ -6384,11 +6384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\Fxr.BgService.csproj",
+      "projectUniqueName": "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\Fxr.BgService.csproj",
       "projectName": "Fxr.BgService",
-      "projectPath": "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\Fxr.BgService.csproj",
+      "projectPath": "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\Fxr.BgService.csproj",
       "packagesPath": "C:\\Users\\91948\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\91948\\source\\repos\\FxrBgService\\Fxr.BgService\\obj\\",
+      "outputPath": "E:\\TW Repo\\fxr-bg\\Fxr.BgService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

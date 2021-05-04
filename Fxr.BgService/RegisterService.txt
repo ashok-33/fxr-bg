@@ -1,0 +1,1 @@
+﻿sc create FxrBackground binPath=C:\FxBgService\Fxr.BgService.exe
